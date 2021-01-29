@@ -1,1 +1,1 @@
-# manipal-web
+# manipal
